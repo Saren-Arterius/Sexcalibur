@@ -1,15 +1,8 @@
 {
-  "normal": {
-    "version": "0.0.1",
-    "description": "- First release",
-    "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/0.0.11d/app-prod-release.apk",
-    "pubdate": "2015-12-xx"
-  },
-  "beta": {
-    "version": "0.0.1",
-    "description": "- First release",
-    "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/0.0.11d/app-prod-release.apk",
-    "pubdate": "2015-12-xx"
-  },
-  "ban_version_under": "0.0.1"
+  "version_name": "0.0.1",
+  "version_code": 1,
+  "description": "- First release",
+  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/0.0.11d/app-prod-release.apk",
+  "pubdate": "2015-12-xx",
+  "ban_version_code_under": 1
 }
