@@ -1,7 +1,7 @@
 {
   "version_name": "0.0.1b",
   "version_code": 3,
-  "description": "- Fix FCs\n- Handle when is video completed",
+  "description": "- Fixed more FCs\n- Added animations",
   "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.1b/app-prod-release.apk",
   "pubdate": "2015-12-23",
   "ban_version_code_under": 1
