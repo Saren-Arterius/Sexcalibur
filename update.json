@@ -1,8 +1,8 @@
 {
-  "version_name": "0.0.1d",
-  "version_code": 5,
-  "description": "- Fixed more FCs",
-  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.1d/app-prod-release.apk",
+  "version_name": "0.0.1e",
+  "version_code": 6,
+  "description": "- Fix broken force update\n- Fix animations",
+  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.1e/app-prod-release.apk",
   "pubdate": "2015-12-24",
   "ban_version_code_under": 1
 }
