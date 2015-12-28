@@ -1,8 +1,8 @@
 {
-  "version_name": "0.0.2a",
-  "version_code": 9,
-  "description": "- Support using external video player | 可選外部播放器\n- Minor fix | 其他小修正",
-  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2a/app-prod-release.apk",
-  "pubdate": "2015-12-26",
+  "version_name": "0.0.2b",
+  "version_code": 10,
+  "description": "- Fix larger font layout | 修正大字體排版\n- Minor fix | 其他小修正",
+  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2b/app-prod-release.apk",
+  "pubdate": "2015-12-28",
   "ban_version_code_under": 9
 }
