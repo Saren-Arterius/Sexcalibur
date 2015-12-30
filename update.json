@@ -1,7 +1,7 @@
 {
   "version_name": "0.0.2d",
   "version_code": 12,
-  "description": "- Fix FCs\n- Ad optimization",
+  "description": "- Ad performance fix",
   "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2d/app-prod-release.apk",
   "pubdate": "2015-12-31",
   "ban_version_code_under": 0
