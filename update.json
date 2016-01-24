@@ -1,8 +1,8 @@
 {
-  "version_name": "0.0.2d",
-  "version_code": 12,
-  "description": "- Ad performance fix",
-  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2d/app-prod-release.apk",
-  "pubdate": "2015-12-31",
-  "ban_version_code_under": 0
+  "version_name": "0.0.2e",
+  "version_code": 13,
+  "description": "- Fix unable to play video\n(Sorry for this cold day!)",
+  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2e/app-prod-release.apk",
+  "pubdate": "2015-01-24",
+  "ban_version_code_under": 13
 }
