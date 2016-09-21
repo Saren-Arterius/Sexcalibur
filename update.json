@@ -1,8 +1,8 @@
 {
-  "version_name": "0.0.2h",
-  "version_code": 16,
+  "version_name": "0.0.2i",
+  "version_code": 17,
   "description": "- Fix various crash problems",
-  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2h/app-prod-release.apk",
-  "pubdate": "2016-08-11",
-  "ban_version_code_under": 13
+  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2i/app-prod-release.apk",
+  "pubdate": "2016-09-21",
+  "ban_version_code_under": 17
 }
