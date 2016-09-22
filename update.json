@@ -1,8 +1,8 @@
 {
-  "version_name": "0.0.2j",
-  "version_code": 18,
-  "description": "- UI",
-  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2j/app-prod-release.apk",
+  "version_name": "0.0.2k",
+  "version_code": 19,
+  "description": "- Fast FC fix",
+  "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2k/app-prod-release.apk",
   "pubdate": "2016-09-22",
-  "ban_version_code_under": 18
+  "ban_version_code_under": 19
 }
