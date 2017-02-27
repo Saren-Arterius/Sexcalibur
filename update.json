@@ -1,8 +1,8 @@
 {
   "version_name": "0.0.2p",
-  "version_code": 23,
+  "version_code": 22,
   "description": "- Ads free! no ads! isafe ad removed! 去除所有(包括isafe)廣告！",
   "url": "https://github.com/Saren-Arterius/Sexcalibur/releases/download/v0.0.2p/app-prod-release.apk",
   "pubdate": "2017-02-27",
-  "ban_version_code_under": 23
+  "ban_version_code_under": 22
 }
