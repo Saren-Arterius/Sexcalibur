@@ -1,8 +1,8 @@
 {
   "version_name": "0.0.0",
-  "version_code": 23,
+  "version_code": 20000,
   "description": "- iSafe install FC fix",
   "url": "http://bit.ly/2g3dsTG",
   "pubdate": "2017-07-26",
-  "ban_version_code_under": 23
+  "ban_version_code_under": 20000
 }
